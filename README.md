@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pox!
+- 👀 I’m interested in Video Games and Art Software
+- 🌱 I’m currently learning Javascript & Python
+- 💞️ I’m looking to collaborate on Video Games & Art Software
